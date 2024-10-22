@@ -1,4 +1,4 @@
-# OpenStack-block-storage
+# OpenStack Block Storage
  
 **Creating an OpenStack Block Storage project (Cinder) involves setting up a project to manage block storage services for virtual machines (VMs) or instances in an OpenStack cloud. The following steps outline the process:**
 
